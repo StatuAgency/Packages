@@ -1,11 +1,14 @@
 {
   "name": "example",
+  "description": "Example Package",
   "homepage": "https://github.com/StatuAgency/Packages",
   "authors": [
     "StatuAgency <hello@statu.co>"
   ],
-  "description": "Example Package",
-  "main": "main.js",
+  "main": [
+    "example.js",
+    "example.css"
+  ],
   "keywords": [
     "example",
     "package"
