@@ -6,8 +6,8 @@
     "StatuAgency <hello@statu.co>"
   ],
   "main": [
-    "/js/jquery-pincode-autotab.min.js",
-    "/css/jquery-pincode-autotab.min.css"
+    "./js/jquery-pincode-autotab.js",
+    "./css/jquery-pincode-autotab.css"
   ],
   "keywords": [
     "jquery",
