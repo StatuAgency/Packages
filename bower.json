@@ -1,17 +1,16 @@
 {
-  "name": "example",
-  "description": "Example Package",
+  "name": "jquery-inputmask",
+  "description": "Inputmask is a javascript library which creates an input mask.  Inputmask can run against vanilla javascript, jQuery and jqlite.",
   "homepage": "https://github.com/StatuAgency/Packages",
   "authors": [
     "StatuAgency <hello@statu.co>"
   ],
   "main": [
-    "example.js",
-    "example.css"
+    "/js/jquery.inputmask.min.js"
   ],
   "keywords": [
-    "example",
-    "package"
+    "jquery",
+    "inputmask"
   ],
   "ignore": [
     "**/.*",
