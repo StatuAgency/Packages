@@ -1,17 +1,18 @@
 {
-  "name": "example",
-  "description": "Example Package",
+  "name": "jquery-pincode-autotab",
+  "description": "jQuery plugin to auto tab between input fields",
   "homepage": "https://github.com/StatuAgency/Packages",
   "authors": [
     "StatuAgency <hello@statu.co>"
   ],
   "main": [
-    "example.js",
-    "example.css"
+    "/js/jquery-pincode-autotab.min.js",
+    "/css/jquery-pincode-autotab.min.css"
   ],
   "keywords": [
-    "example",
-    "package"
+    "jquery",
+    "pincode",
+    "autotab"
   ],
   "ignore": [
     "**/.*",
