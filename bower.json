@@ -6,7 +6,7 @@
     "StatuAgency <hello@statu.co>"
   ],
   "main": [
-    "/js/jquery.inputmask.min.js"
+    "./js/jquery.inputmask.js"
   ],
   "keywords": [
     "jquery",
