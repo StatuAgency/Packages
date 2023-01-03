@@ -1,0 +1,20 @@
+{
+  "name": "example",
+  "homepage": "https://github.com/StatuAgency/Packages",
+  "authors": [
+    "StatuAgency <hello@statu.co>"
+  ],
+  "description": "Example Package",
+  "main": "main.js",
+  "keywords": [
+    "example",
+    "package"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
