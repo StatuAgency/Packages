@@ -1,17 +1,18 @@
 {
-  "name": "example",
-  "description": "Example Package",
+  "name": "infinite-scroll",
+  "description": "Automatically add next page",
   "homepage": "https://github.com/StatuAgency/Packages",
   "authors": [
     "StatuAgency <hello@statu.co>"
   ],
   "main": [
-    "example.js",
-    "example.css"
+    "./js/infinite-scroll.pkgd.js"
   ],
   "keywords": [
-    "example",
-    "package"
+    "infinite",
+    "scroll",
+    "pagination",
+    "infinite-scroll"
   ],
   "ignore": [
     "**/.*",
