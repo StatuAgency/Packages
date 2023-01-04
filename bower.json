@@ -1,17 +1,19 @@
 {
-  "name": "example",
-  "description": "Example Package",
+  "name": "swiper",
+  "version": "5.4.5",
+  "description": "Most modern mobile touch slider with hardware accelerated transitions",
   "homepage": "https://github.com/StatuAgency/Packages",
   "authors": [
     "StatuAgency <hello@statu.co>"
   ],
   "main": [
-    "example.js",
-    "example.css"
+    "./js/swiper.js",
+    "./css/swiper.css"
   ],
   "keywords": [
-    "example",
-    "package"
+    "swiper",
+    "slider",
+    "carousel"
   ],
   "ignore": [
     "**/.*",
