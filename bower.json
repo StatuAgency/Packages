@@ -1,17 +1,16 @@
 {
-  "name": "example",
-  "description": "Example Package",
+  "name": "fontawesome",
+  "description": "Fontawesome Icons",
   "homepage": "https://github.com/StatuAgency/Packages",
   "authors": [
     "StatuAgency <hello@statu.co>"
   ],
   "main": [
-    "example.js",
-    "example.css"
+    "./css/fontawesome.css"
   ],
   "keywords": [
-    "example",
-    "package"
+    "fontawesome",
+    "icons"
   ],
   "ignore": [
     "**/.*",
