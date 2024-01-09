@@ -1,17 +1,17 @@
 {
-  "name": "example",
-  "description": "Example Package",
+  "name": "scroll-trigger",
+  "description": "Let your page react to scroll changes.",
   "homepage": "https://github.com/StatuAgency/Packages",
   "authors": [
     "StatuAgency <hello@statu.co>"
   ],
   "main": [
-    "example.js",
-    "example.css"
+    "./js/ScrollTrigger.min.js"
   ],
   "keywords": [
-    "example",
-    "package"
+    "scroll",
+    "trigger",
+    "scroll-trigger"
   ],
   "ignore": [
     "**/.*",
