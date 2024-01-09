@@ -6,7 +6,7 @@
     "StatuAgency <hello@statu.co>"
   ],
   "main": [
-    "./js/ScrollTrigger.js"
+    "./js/ScrollTrigger.min.js"
   ],
   "keywords": [
     "scroll",
