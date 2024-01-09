@@ -1,17 +1,15 @@
 {
-  "name": "example",
-  "description": "Example Package",
+  "name": "gsap",
+  "description": "GSAP is an industry standard JavaScript animation library from GreenSock that lets you craft high-performance animations that work in every major browser.",
   "homepage": "https://github.com/StatuAgency/Packages",
   "authors": [
     "StatuAgency <hello@statu.co>"
   ],
   "main": [
-    "example.js",
-    "example.css"
+    "./js/gsap.min.js"
   ],
   "keywords": [
-    "example",
-    "package"
+    "gsap"
   ],
   "ignore": [
     "**/.*",
