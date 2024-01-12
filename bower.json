@@ -1,17 +1,15 @@
 {
-  "name": "example",
-  "description": "Example Package",
+  "name": "echarts",
+  "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
   "homepage": "https://github.com/StatuAgency/Packages",
   "authors": [
     "StatuAgency <hello@statu.co>"
   ],
   "main": [
-    "example.js",
-    "example.css"
+    "./js/echarts.js"
   ],
   "keywords": [
-    "example",
-    "package"
+    "echarts"
   ],
   "ignore": [
     "**/.*",
